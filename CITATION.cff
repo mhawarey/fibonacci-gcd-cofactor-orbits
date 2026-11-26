@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Reproduction Code for \"A Size Law for Periodic Orbits of the Fibonacci–gcd Cofactor Map, and All Orbits up to Period 40\""
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+authors:
+  - family-names: Hawarey
+    given-names: Mosab
+    affiliation: "Geospatial Research"
+    email: director@geospatial.ch
+preferred-citation:
+  type: article
+  title: "A Size Law for Periodic Orbits of the Fibonacci–gcd Cofactor Map, and All Orbits up to Period 40"
+  authors:
+    - family-names: Hawarey
+      given-names: Mosab
+  journal: "AIR Journal of Mathematics and Computational Sciences"
+  year: 2026
